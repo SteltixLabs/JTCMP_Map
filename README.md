@@ -1,5 +1,4 @@
-# ojet component template
+# map wrapper
 
 ## Usage
-Refer to the oj.Composite jsdoc
-http://www.oracle.com/webfolder/technetwork/jet/jsdocs/oj.Composite.html
+<map-wrapper height="" width="" longitude="" latitude="">
