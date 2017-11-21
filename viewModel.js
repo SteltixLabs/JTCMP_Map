@@ -1,6 +1,7 @@
 /**
   Copyright (c) 2015, 2017, Oracle and/or its affiliates.
   The Universal Permissive License (UPL), Version 1.0
+  api url and key = https://maps.googleapis.com/maps/api/js?key=AIzaSyA07vX9UwwikBu3pOhvXgpXJiWCBF9XpVI
 */
 define(
     ['ojs/ojcore', 'knockout', 'jquery','gmaps'], function (oj, ko, $) {
